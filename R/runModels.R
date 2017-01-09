@@ -1,6 +1,6 @@
 #' Run Mplus Models Using Graphical Interface
 #'
-#' This function is provides a graphical user interface to the \code{runModels} function.
+#' This function provides a graphical user interface to the \code{runModels} function.
 #' It uses Tcl/Tk to display a window in which the user can specify parameters for \code{runModels},
 #' including the directory for runs, recursing through subdirectories, displaying output on the console,
 #' and replacing existing outfiles.
